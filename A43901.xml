@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of naturalization with some remarques upon the effects thereof, in respect to the religion, trade and safety of His Majesties dominions. Printed according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43901</idno>
+            <idno type="STC">Wing H2127</idno>
+            <idno type="STC">ESTC R215940</idno>
+            <idno type="EEBO-CITATION">99827697</idno>
+            <idno type="PROQUEST">99827697</idno>
+            <idno type="VID">32120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32120)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1850:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of naturalization with some remarques upon the effects thereof, in respect to the religion, trade and safety of His Majesties dominions. Printed according to order.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Suggested imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naturalization --  England --  History --  17th century --  Sources --  Early works to 1800.</term>
+               <term>Aliens --  Great Britain --  Controversial literature --  Early works to 1800.</term>
+               <term>Dutch --  England --  Early works to 1800.</term>
+               <term>Jews --  Great Britain --  Social conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:32120:1" rendition="simple:additions"/>
+            <head>THE HISTORY OF NATURALIZATION, With ſome Remarques upon the Effects thereof, in reſpect to the Religion, Trade and Safety of His Majeſties Dominions.</head>
+            <p>Printed according to Order.</p>
+            <p>THE firſt Notices of Naturalizing <hi>Alien Merchants</hi> under the name of Endenization, are handed to us by the Statute of the 1<hi rend="sup">mo.</hi> of <hi>Henry</hi> the 7<hi rend="sup">th.</hi> 
+               <hi>cap.</hi> 2<hi rend="sup">d.</hi> in theſe words:</p>
+            <p>
+               <hi>Whereas in time paſt divers Grants have been made by King</hi> Edward, <hi>as well by his Letters Patents, as by Acts of Parliament to divers Merchant Strangers born out of this Realm to be De<g ref="char:EOLhyphen"/>nizons, whereby they have and enjoy ſuch Freedoms and Liberties as do Denizons born within the ſaid Realm, as well in abatement of their Cuſtom which they ſhould bear, as if they were no Denizons, as in buying and ſelling of their Merchandize to their great avail and lucre, and oft-times ſuffer other Strangers, not Denizons, deceitfully to ſhip and carry great and notable ſubſtance of Merchandize in their names, by the which the ſaid Goods be f<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e of Cuſtom: In likewiſe as if they were the Goods of a Denizon, where of right they ought to pay C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m as the Goods of Strangers, by the which they be greatly advanced in Riches and Honour, and after they be ſo enriched, for the moſt part they convey themſelves with their ſaid Goods into their own Countries wherein they be naturally born, to the great impoveriſhing of this Realm, and to the great hurt and defraud of the King's Highneſs in payment of his Cuſtoms. Wherefore it is Enacted, Eſtabliſhed and Ordained by the Advice of the ſaid Lords Spiritual and Temporal, and Commons in the ſaid Parliament aſſembled, and by the Authority of the ſame, That any perſon made or hereafter to be made Denizon, ſhall pay for his Merchandize like Cuſtom and Subſidy as he ought or ſhould pay before that be were made Denizon, any Letters Patents or other Ordinances by Parliament or otherwiſe notwithſtanding.</hi>
+            </p>
+            <p>And to the ſame purpoſe is the Statute of 11<hi rend="sup">th.</hi> 
+               <hi>Henry</hi> 7<hi rend="sup">th.</hi> 
+               <hi>cap.</hi> 14<hi rend="sup">th.</hi>
+            </p>
+            <p>And to the like purpoſe is the Statute of 22<hi rend="sup">th.</hi> 
+               <hi>Henry</hi> the 8<hi rend="sup">th.</hi> 
+               <hi>cap.</hi> 8<hi rend="sup">th.</hi>
+            </p>
+            <p>During the Reigns of <hi>Edward</hi> the 6<hi rend="sup">th.</hi> Queen <hi>Mary,</hi> and Queen <hi>Elizabeth,</hi> nothing is recorded touching Naturalization. But when King <hi>James</hi> happily added the Diadem of <hi>Scotland</hi> to this of <hi>England,</hi> ſo cautious were our Anceſtors, that they would never admit the ther Natives of <hi>Scotland,</hi> though His Majeſties Subjects, to the priviledge that Aliens naturalized do now enjoy. And by the Statute the 7<hi rend="sup">th.</hi> 
+               <hi>Jacobi, cap.</hi> 2<hi rend="sup">d.</hi> It is provided by Parliament in theſe words: <q>For as much as the Naturalizing of Strangers, and reſtoring to blood, perſons attainted have been ever reputed matters of meer Gra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd Favour, which are not fit to be beſtowed upon any others than ſuch as are of the Religio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> now Eſtabliſhed in this Realm, Be it therefore Enacted by the Kings Moſt Excellent Majeſtie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lords Spiritual and Temporal, and the Commons in this preſent Parliament aſſembled, That <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Perſon or perſons of what quality, condition or place ſo ever, being of the Age of Eighteen years or above, ſhall be Naturalized or Reſtored in blood, unleſs the ſaid perſon or perſons have received the Sacrament of the Lord's Supper within one month before any Bill exhibited for that purpoſe; and alſo ſhall take the Oath of Supremacy, and the Oath of Allegiance, in the Parliament-Houſe, before his or her Bill be twice read. And for the better effecting of the Premiſes, Be it further Enacted by the Authority aforeſaid, That the
+<pb n="2" facs="tcp:32120:2"/>Lord Chancellour of <hi>England,</hi> or Lord Keeper of the Great Seal for the time being, if the Bill be<g ref="char:EOLhyphen"/>gin in the Upper Houſe, and the Speaker of the Commons Houſe of Parliament for the time being, if the Bill begin there<g ref="char:punc">▪</g> ſhall have Authority at all times during the Seſſion of Parliament to mi<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter ſuch Oath and Oaths, and to ſuch perſon and perſons as by the true intent of this Stature is to be miniſtred.</q>
+            </p>
+            <p>In the Reign of King <hi>Charls</hi> the Firſt, of bleſſed memory, the Engl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh Merchant had a Trade to profit, ſo that many of them arrived to great Eſtates, ſome to 100000 <abbr>
+                  <hi>l</hi>
+               </abbr> value, ſeveral to fifty thouſand pounds Eſtate: And in all the Reign of King <hi>James</hi> and King <hi>Char<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> the Firſt, not above Ten <hi>Aliens Merchants</hi> were naturalized, and thoſe ſuch as by long abode in <hi>England</hi> had merited the kindneſs of the Nation, and then it was rare to hear of an Engliſh Merchant that failed, ſo that the Clothiers then grew rich by the good payments the Engliſh Merchants made them, and the Clothing of this Kingdom was in great requeſt abroad: And the Gentry then began to put their Sons Appren<g ref="char:EOLhyphen"/>tices unto Merchants, and it was thought a very good Proviſion for Gentlemens youngeſt Sons.</p>
+            <p>
+               <hi>O fortunati ſi ſua bona norint.</hi>
+            </p>
+            <p>But this growing happineſs of the Engliſh Merchants was ſoon Ecclipſed by the late <hi>Oliverian</hi> Uſurpers, who being fond of the <hi>Hollanders</hi> Coalition with us, and that failing them, thoſe Uſurpers did more greedily imbibe the opinion and practice of Naturalization, hoping thereby to weaken the <hi>Hollanders</hi> by drawing over numbers of Dutchmen, and ſo gave this ſingular priviledge to all that ask'd it, not forbidding the Jews, but encouraging their admiſſion and abode with us, and laid aſide the ſaid Statutes for difference in Cuſtoms, and that alſo of the 7<hi rend="sup">•h</hi>. <hi>Jacobi.</hi> And thus the indu<g ref="char:EOLhyphen"/>ſtrious Engliſh Merchant, who cannot live ſo poorly as a Jew, or other Aliens that lives onely in a Chamber, was much diſcouraged, nor was this free admiſſion of Forein Merchants any weakening to the Dutch, or other Forein States; for there came no number of Artificers with Families, but the greateſt part that c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me to be Naturalized, were ſuch as rather lived like Spies, than Inhabitants a<g ref="char:EOLhyphen"/>mongſt us: And though ſome hundreds of <hi>Aliens Merchants</hi> were then and ſince Naturalized, yet they are no acceſſion of Strength or Intereſt to this Kingdom, nor any advance of our Lands; but on the contrary are a great cauſe of diſtraction in Religion, dangerous to the Government, and ruinous to the Engliſh Trade and Merchant.</p>
+            <p n="1">1. That this Naturalization hath been a great cauſe of our diſtraction in Religion is evident in <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Effect, and the worthy Author of the compaſſionate Enquiry amongſt the Cauſes of the neglect <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> contempt of our Religion brings in Judaiſm, and this pretence of the enlargement of Trade, as <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Cauſes, it being, ſaith that Authour moſt remarkably true of the Engliſh, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t their good <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> prompts them to look and think favourably of ſuch things as they ſee in requeſt with others, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om thence they proceed to affect the Novelty, or at leaſt become unſtable in their own Re<g ref="char:EOLhyphen"/>ligion. And when the ſaid Uſurpers thought it convenient to make <hi>England</hi> an <hi>Amſterdam</hi> of all Religions, the admiſſion of Foreiners was a moſt effectual means to introduce that great diverſity of Opinions amongſt us, which hath ever ſince abated mens zeal for, and reverence of our Eſtabliſhed Religion; and its worthy Obſervation, that not onely the Jews, but thoſe of all other Nations who have obtained this priviledge, do no way incorporate with the Engliſh, but continue a diſtinct body in all Eccleſiaſtical Affairs, not only in their own perſons, but alſo in their children to after gene<g ref="char:EOLhyphen"/>rations.</p>
+            <p n="2">2. This introducing of <hi>Merchants Aliens</hi> is dangerous to the Government, for Aliens will not have their Affections changed, nor their Alliances exſtinguiſhed by Naturalization, for it is engraven in every man's heart with indelible Characters, ever to love his Native Soil and Country beſt, wit<g ref="char:EOLhyphen"/>neſs the late Wars we had with <hi>Holland</hi> and <hi>France,</hi> what advices, what amuſing Stories at the Coffee-houſes, weakening the hands of His Majeſties Subjects, by miſreporting all our Naval Actions, and it hath ever been found, that a <hi>Babel</hi> in Languages begets confuſion in Kingdoms, and tendeth to beget fear and diffidence amongſt the Natural born Subjects.</p>
+            <p n="3">3. This favour to Aliens is ruinous to the Engliſh Trade and Engliſh Merchant, for before this Na<g ref="char:EOLhyphen"/>turalization, the Engliſh Merchants had many Forein Commiſſions very advantagious to them, which theſe Ali<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>njoy; and the Engliſh had Factories ſetled in all Countries, and by theſe Factories influenced <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erned the Trade of the world, theſe Factors were honourable to our Nation, en<g ref="char:EOLhyphen"/>courage<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Manufactories, and a great Addition to the Capital Stock of the Kingdom by the great E<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> generally gained abroad and brought home amongſt us. By theſe Factories the Engliſh <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>quainted with the Secrets and Myſteries of other Kingdoms, and the Youth of our Nation <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>chandize, had many great opportunities beyond that of other Gentlemen Tra<g ref="char:EOLhyphen"/>vellers, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the works of God and man, of Nature and of Art to enlarge their minds as well as <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, to be inured to hardſhip and danger, and inſtructed in ſubtilty, and all the Arts of li<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf-ſecurity. But ſince this particular Naturalization of <hi>Merchant Aliens,</hi> our
+<pb n="3" facs="tcp:32120:2"/>our Factories in <hi>France,</hi> the <hi>Netherlands, Holland,</hi> and the beſt part in <hi>Portugall,</hi> are ruined, and the <hi>French F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andrians, Dutch</hi> and <hi>Portugals</hi> have ſo far gained this point of us ſince this Naturaliza<g ref="char:EOLhyphen"/>tion, as that they have ſet up Factories here in <hi>England,</hi> and the <hi>Italians</hi> have attempted the like alſo to the great ſpoil of our Engliſh Trade and Merchants.</p>
+            <p>This Encouragement to <hi>Aliens</hi> is but a tranſplanting the Trade from Natives to <hi>Aliens,</hi> for <hi>Aliens</hi> naturalized, beſide the cheapneſs of living here as Lodgers, have four or five <hi>per Cent.</hi> advan<g ref="char:EOLhyphen"/>tage in Trade above the Natives, by the Intereſt of money wherewith they Trade, and by having the Commiſſion of all their Kindred and Friends abroad, ſo that the ancient diſtinction of one fourth part in Cuſtoms upon <hi>Aliens</hi> naturalized more then Engliſh, doth but put the Engliſh upon equal terms in Trade with theſe <hi>Aliens.</hi>
+            </p>
+            <p>The Engliſh Merchants have both inclinations and ſtock ſufficient to drive the Trade of this King<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, and the encreaſe of <hi>Aliens Merchants</hi> is but the decreaſe and ruine of Natives; for before this frequ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Naturalization there was no complaint of the want of People amongſt us, and although theſe <hi>Aliens</hi> naturalized, and all other <hi>Aliens</hi> by the <hi>Statue</hi> 25. <hi>of his Majeſties Reign,</hi> are to pay no other Cu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>omes for any of the Native Commodities of this Realm Exported, than are paid by His <hi>Maj<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ies Natural-born Subject,</hi> yet its found by Experience that they Export very little of our <hi>Engliſh <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> but generally make their returns by paying money in Exchange beyond Sea for the Toyes and Baubles they bring us, and they no way encreaſe the Conſumption of our Pro<g ref="char:EOLhyphen"/>viſion; by their Families, for thoſe that come to be naturalized, are not any conſiderable number of <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ers with their Families but are <hi>Merchants,</hi> and are one of a Tribe, two of a Town, and five o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſix of a Province fitted inſtruments to carry on the deſigns of their Employers, and the greateſt part of them are not intended to inhabit with us, but like Summer Birds when they have filled their Po<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ets, or if trouble or War ariſe, they will not forget their Fathers Land, and in ſuch caſe here<g ref="char:EOLhyphen"/>after, as formerly, may be inſtruments of great inconvenience to His Majeſty and His <hi>Natural-Born Subjects.</hi>
+            </p>
+            <p>The advantages to the Nation by this particular Naturalization have been loudly proclamed, as be<g ref="char:EOLhyphen"/>ing t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e onely way to encreaſe His Majeſties Subjects, advance Trade, and to raiſe the price of Lands, but as hitherto it hath had no ſuch effect. So it will never produce any ſuch or other advant<g ref="char:EOLhyphen"/>age to this Kingdom, unleſs it could be preſumed that the liberal ofter of this priviledge had vertue and power in it to bring in ſuch Perſons for Number and Quality as the Kingdom may ſeem to ſtand in need of; but as hath been ſaid, few or none of thoſe come to accept theſe priviledges, but ſuch on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly come as have deſigns upon the Kingdom for their own advantage; and their practices have been and will be ac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ording to their Principles and Intereſts, for of the great number of Merchants that have been admitted, not twelve of them have purchaſed Lands in <hi>England,</hi> nor fifteen of them intermarried with <hi>Engliſh</hi> amongſt us; few of them live otherwiſe than as Lodgers, and divers Aliens having got Credit amongſt us have broke much indebted unto the <hi>Engliſh,</hi> who are conſtant<g ref="char:EOLhyphen"/>ly looſers by them, but their own Country-men are better treated, it being the Principle of many of theſe Aliens to preſerve the Capital Stock of their own Countryes: for they uſe to ſet up one, and make him great in Credit, and then he breaks indebted to the <hi>Engliſh,</hi> but ſalves his own Coun<g ref="char:EOLhyphen"/>trymen, and then they ſet up another as hath been inſtanced in ſeveral of theſe <hi>Alien Merchants</hi> one after another.</p>
+            <p>Thus endeth the firſt part of the Hiſtory of Naturalization, whereby it appears that we have been a<g ref="char:EOLhyphen"/>buſed by theſe Aliens for thoſe who ſhould come and be beneficial to us, are not with us, and thoſe that have &amp; do come are prejudicial to us, It remains therefore that all true Engliſhmen joyn in their ſuppli<g ref="char:EOLhyphen"/>cations, that Proviſion may be made to encourage Gentlemens Sons in Merchandize, and that accord<g ref="char:EOLhyphen"/>ing to the Preſident of the aforeſaid Statutes this miſchief be ſpeedily retrieved, not by forbiding Aliens from a peaceable Abode and Trade amongſt us, but by maintaining the ancient and equal difference between them and Natives, by making all <hi>Aliens</hi> born liable to <hi>Aliens Cuſtomes</hi> for their Toyes and Baubles and other Merchandize which they ſhall import, or that at leaſt thoſe who are either Papiſts or Infidels, thoſe who have got this priviledge by indirect means and all thoſe <hi>Aliens Merchants</hi> who have no Family amongſt us, but live in Chambers as Lodgers, may looſe their priviledge of Naturalization. And that it may be Provided for by a Law, That no <hi>Aliens Merchant</hi> be hereafter admitted to the Priviledge of Naturalization, until they have lived as Dezi<g ref="char:EOLhyphen"/>zons by His Majeſties Letters, Patents, a certain number of years amongſt us, or until they have intermarried with Engliſh, or Purchaſed Lands upon their Denization, or otherwiſe merited is Majeſties Favour and Bounty by ſome ſignal Service.</p>
+            <pb n="4" facs="tcp:32120:3"/>
+            <p>If it be Objected, <hi>That there is an Experiment which may be more ſafely truſted to than Argument, in that the</hi> Hollanders <hi>by the univerſal admiſſion of all Foreign<g ref="char:EOLhyphen"/>ers unto equal Priviledge with Natives have arrived to a great Trade, and thereby to Riches and Strength beyond other Nations.</hi>
+            </p>
+            <p>
+               <hi>The Anſwer is,</hi> The <hi>Hollanders</hi> are only ſtrong in <hi>Shipping,</hi> which are Man'd by the Natives of the Country. But how eaſily were they vanquiſhed at Land, when the <hi>French</hi> for asking, got ſo much of their Country; and the Reaſon is plain, for all <hi>Foreigners</hi> are but as <hi>Sojourners,</hi> and had rather change there Governours then venture either their Perſons or Eſtates when troubles come.</p>
+            <p>The <hi>Hollanders</hi> are neceſſitated to give a free tolleration of all Religions, without which <hi>Foreigners</hi> will not joyn themſelves in numbers to that or any other Nation.</p>
+            <p>The <hi>Hollanders</hi> have no Lands to live upon, nor other wayes then that of Trade to advance their Induſtrious and ingenious Youth, and ſo all their Eſtates deſcend from Fathers to Sons in Trade and Merchandize, and ſo need not fear the looſing, of their Trade of Merchandizes by the Acceſſion of Foreigners.</p>
+            <p>But in <hi>England</hi> we have Lands to live upon, and have ſeveral other wayes for advancing Ingenious and Induſtrious Perſons, beſides that good way of Merchandiz<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, and if through frequent Naturalization of <hi>Alien Merchants</hi> the Trade of Mer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>dizing in <hi>England</hi> become a poor picquering Trade (as it will quickly be if For<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ers be equal in Priviledges with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en all o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Contry, and men of Eſtates <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ingenuity, will leave Merchandizing <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto Foreigners; and betake themſelves <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more profitable Employments of the Court, the Ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p, Divinity, the Law <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Phyſick: And ſo in a ſhort time we <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>all looſe the Trade of Merchandizing, which is the Miſtreſs of the World, by the miſtaken methods we purſue in the C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urtſhip of her.</p>
+            <pb facs="tcp:32120:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
